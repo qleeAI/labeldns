@@ -13,4 +13,3 @@ $ go build
 $ ./labeldns
 ```
 
-
